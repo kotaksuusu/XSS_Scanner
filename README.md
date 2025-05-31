@@ -49,4 +49,4 @@ Jika tidak difilter, browser akan mengeksekusi JavaScript itu, dan muncul alert.
 
 ---
 
-Kalau kamu ingin, aku bisa bantu membuat demo atau tools sederhana untuk mendeteksi reflected XSS.
+Mohon digunakan dengan bijak
