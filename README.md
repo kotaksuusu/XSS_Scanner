@@ -1,5 +1,7 @@
 # XSS_Scanner
 REFLECTED XSS SCANNER BY KOTAKSUUSU
+
+
 **XSS (Cross-Site Scripting)** adalah jenis celah keamanan pada aplikasi web yang memungkinkan penyerang menyisipkan **kode JavaScript berbahaya** ke dalam halaman web yang dilihat oleh pengguna lain. Tujuan utamanya biasanya untuk mencuri data pengguna (seperti cookie, token sesi), melakukan aksi atas nama pengguna, atau merusak tampilan halaman.
 
 ---
